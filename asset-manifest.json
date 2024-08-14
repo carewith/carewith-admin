@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/carewith-admin/static/css/main.ddfb8b81.css",
-    "main.js": "/carewith-admin/static/js/main.1360f271.js",
+    "main.js": "/carewith-admin/static/js/main.0c923d7a.js",
     "static/js/453.7ffdf933.chunk.js": "/carewith-admin/static/js/453.7ffdf933.chunk.js",
     "index.html": "/carewith-admin/index.html",
     "main.ddfb8b81.css.map": "/carewith-admin/static/css/main.ddfb8b81.css.map",
-    "main.1360f271.js.map": "/carewith-admin/static/js/main.1360f271.js.map",
+    "main.0c923d7a.js.map": "/carewith-admin/static/js/main.0c923d7a.js.map",
     "453.7ffdf933.chunk.js.map": "/carewith-admin/static/js/453.7ffdf933.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddfb8b81.css",
-    "static/js/main.1360f271.js"
+    "static/js/main.0c923d7a.js"
   ]
 }
